@@ -1,10 +1,10 @@
-package com.dev.loja;
+package com.dev.lojabackend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class LojaApplicationTests {
+class LojaBackendApplicationTests {
 
 	@Test
 	void contextLoads() {
